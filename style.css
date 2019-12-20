@@ -13,7 +13,7 @@ header {
 .logo {
     color: #ffffff;
     font-size: 40px;
-    font-family: cursive;
+    font-family:'Great Vibes', cursive;
     margin-top: -20px;
 }
 nav {
@@ -47,9 +47,10 @@ nav {
 .header-title-1 {
     color: #F2AC32;
     font-size: 44px;
-    font-family: 'Rochester',cursive;
+    font-family: 'Great Vibes', cursive;
     padding-top: 100px;
     padding-bottom: 15px;
+    letter-spacing: 2px;
 }
 .header-title-2 {
     color: #fff;
@@ -142,9 +143,10 @@ nav {
 }
 
 .Discover-h1 {
-    font-family: cursive;
+    font-family: 'Great Vibes', cursive;
     color: #F2AC32;
     margin-bottom: 15px;
+    letter-spacing: 2px;
 }
 
 .Discover-h2 {
@@ -174,6 +176,8 @@ nav {
     color: #F2AC32;
     margin-bottom: 15px;
     font-size: 40px;
+    font-family: 'Great Vibes', cursive;
+    letter-spacing: 1px;
 }
 
 .specialities-h2 {
@@ -300,7 +304,8 @@ nav {
 }
 
 .special-menu-h1 {
-    font-family: cursive;
+    font-family: 'Great Vibes', cursive;
+    letter-spacing: 2px;
     color: #F2AC32;
     font-size: 40px;
     margin-bottom: 15px;
@@ -316,9 +321,9 @@ nav {
 
 .special-menu-h3 {
     width: 100%;
-    font-family: cursive;
+    font-family: 'Great Vibes', cursive;
     font-size: 22px;
-    letter-spacing: 2px;
+    letter-spacing: 4px;
 }
 
 .fa-ice-cream {
@@ -448,9 +453,9 @@ nav {
     background-position: center;
 }
 .col-small-h3 {
-    font-family: cursive;
+    font-family: 'Great Vibes', cursive;
     font-size: 22px;
-    letter-spacing: 2px;
+    letter-spacing: 3px;
     width: 100%;
     color: #f2ac32;
 }
@@ -485,10 +490,11 @@ nav {
 }
 
 .our-menu-h1 {
-    font-family: cursive;
-    color: #F2AC32;
+    font-family: 'Great Vibes', cursive;
     font-size: 40px;
+    color: #F2AC32;
     margin-bottom: 15px;
+    letter-spacing: 2px;
 }
 
 .our-menu-h2 {
@@ -559,10 +565,11 @@ nav {
 }
 
 .booking-table-h1 {
-    font-family: cursive;
+    font-family: 'Great Vibes', cursive;
     color: #F2AC32;
     font-size: 40px;
     margin-bottom: 15px;
+    letter-spacing: 2px;
 }
 
 .booking-table-h2 {
