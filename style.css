@@ -65,6 +65,8 @@ nav {
     text-decoration: none;
     padding: 10px 20px;
     font-size: 14px;
+    font-family: sans-serif;
+    font-weight: 600;
     transition: all 0.3s ease-in-out;
 }
 .header-cta-button:hover {
