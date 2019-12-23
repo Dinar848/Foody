@@ -225,6 +225,7 @@ nav {
 .specialities-image3 {
     background: url(images/img3.jpg);
     background-size: cover;
+    background-position: center;
 }
 
 .specialities-image1:hover .specialities-overlay,
