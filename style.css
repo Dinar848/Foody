@@ -276,7 +276,7 @@ nav {
     position: absolute;
     border-top: 100px solid #f0f0f0;
     border-right: 99.8vw solid transparent;
-    top: -100px;
+    top: -101px;
     left: 0;
 }
 
@@ -285,7 +285,7 @@ nav {
     position: absolute;
     border-bottom: 100px solid #f0f0f0;
     border-left: 99.8vw solid transparent;
-    bottom: -100px;
+    bottom: -101px;
     right: 0;
 }
 
